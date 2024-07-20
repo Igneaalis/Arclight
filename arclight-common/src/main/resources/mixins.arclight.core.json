@@ -341,7 +341,6 @@
     "world.level.block.BellBlockMixin",
     "world.level.block.BigDripleafBlockMixin",
     "world.level.block.BlockMixin",
-    "world.level.block.BuddingAmethystBlockMixin",
     "world.level.block.BushBlockMixin",
     "world.level.block.ButtonBlockMixin",
     "world.level.block.CactusBlockMixin",
